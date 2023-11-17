@@ -1,0 +1,14 @@
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\bin\Debug\net7.0\SomaMedia.exe
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\bin\Debug\net7.0\SomaMedia.deps.json
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\bin\Debug\net7.0\SomaMedia.runtimeconfig.json
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\bin\Debug\net7.0\SomaMedia.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\bin\Debug\net7.0\SomaMedia.pdb
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\refint\SomaMedia.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.pdb
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\SomaMedia.genruntimeconfig.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\SomaMedia\SomaMedia\obj\Debug\net7.0\ref\SomaMedia.dll
